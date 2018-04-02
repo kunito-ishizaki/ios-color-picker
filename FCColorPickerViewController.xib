@@ -36,8 +36,6 @@
                     <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                     <state key="normal" title="色を選択">
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="Choose">
-                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                     <connections>
                         <action selector="chooseSelectedColor" destination="-1" eventType="touchUpInside" id="62"/>
@@ -49,8 +47,6 @@
                     <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                     <state key="normal" title="キャンセル">
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    <state key="normal" title="Cancel">
-                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                     <connections>
                         <action selector="cancelColorSelection" destination="-1" eventType="touchUpInside" id="61"/>
